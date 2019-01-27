@@ -6,7 +6,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
 
     <!--INCLUDE SQS SCRIPTS, META TAGS AND USER CONTENT FROM THE CODE INJECTION TAB-->
 
@@ -38,7 +38,7 @@
 <meta name="twitter:url" content="http://grannysgotgame.com/shop/community-screening-package"/>
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:description" content="This kit includes a  Public Performance License  that will allow you to show the film in a public space with no admission fee.   Community Screening Kit  includes:  • DVD (includes Special Features and English SDH) • Two movie posters (18”x24”) • Templates for postcards to advertise the screening (P"/>
-<meta name="description" content="This kit includes a Public Performance License that will allow you to show 
+<meta name="description" content="This kit includes a Public Performance License that will allow you to show
 the film in a public space with no admission fee.
 
 Community Screening Kit includes:
@@ -49,16 +49,16 @@ Community Screening Kit includes:
 • Discussion Guide (PDF)
 • Step-by-step guide to hosting a successful event (PDF)
 
-If you’d like to show the film in High Definition, you can add a Blu-ray 
+If you’d like to show the film in High Definition, you can add a Blu-ray
 disc with the full-length movie for an additional $25.  Contact us.
 
-If you want a copy of the film for your classroom or library, you need our 
+If you want a copy of the film for your classroom or library, you need our
 Educational Screening Kit.
 
-If you’d like to charge admission or use the film screening as a 
+If you’d like to charge admission or use the film screening as a
 fundraiser, please contact us for details.
 
-If your organization can not afford the screening kit, please contact us to 
+If your organization can not afford the screening kit, please contact us to
 discuss and we will work something out. 
 
  
@@ -73,7 +73,8 @@ discuss and we will work something out. 
 <script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["/assets/scripts/common-ed03d99027422bf959b3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
 <script crossorigin="anonymous" src="/assets/scripts/common-ed03d99027422bf959b3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["/assets/scripts/commerce-3bae517f14062fd02908-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
 <script crossorigin="anonymous" src="/assets/scripts/commerce-3bae517f14062fd02908-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["/assets/css/commerce-a840ee3a77201db5c548717bab21806d-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<link rel="stylesheet" type="text/css" href="/assets/css/commerce-a840ee3a77201db5c548717bab21806d-min.css"/><script crossorigin="anonymous" src="/assets/scripts/performance-6f304cbf062fb0ffc7f8-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"/assets/css/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/announcement-bar-72cb1aae1f1ba5f5ccdc-min.en-US.js"},"squarespace-audio-player":{"css":"/assets/css/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"/assets/scripts/audio-player-836f63bc70a296308c45-min.en-US.js"},"squarespace-blog-collection-list":{"css":"/assets/css/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/blog-collection-list-9b4ea8a0bf07c52af335-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"/assets/css/calendar-block-renderer-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"/assets/scripts/calendar-block-renderer-c7c7a624abbf222089ae-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"/assets/css/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"/assets/scripts/chartjs-helpers-50c9530e31a3246d6d87-min.en-US.js"},"squarespace-comments":{"css":"/assets/css/comments-bfcda0f17dd987db5206c1d15e83fd19-min.css","js":"/assets/scripts/comments-c526f2afa05bd1ee95d6-min.en-US.js"},"squarespace-commerce-cart":{"js":"/assets/scripts/commerce-cart-9423cf9d499f1f9811e4-min.en-US.js"},"squarespace-dialog":{"css":"/assets/css/dialog-ee8203bf3e94f3c82f5c92798a4e7954-min.css","js":"/assets/scripts/dialog-67a035847a66064ce980-min.en-US.js"},"squarespace-events-collection":{"css":"/assets/css/events-collection-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"/assets/scripts/events-collection-51edf1bfa86257db7058-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"/assets/scripts/form-rendering-utils-2096907a633e74a52a63-min.en-US.js"},"squarespace-forms":{"css":"/assets/css/forms-ac7917c174031c937e3df4b3a2005b34-min.css","js":"/assets/scripts/forms-753053f053ec7e387fd9-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"/assets/css/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/gallery-collection-list-a092e2961ef93a0a897b-min.en-US.js"},"squarespace-image-zoom":{"css":"/assets/css/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/image-zoom-db9dbbed55ed8afd9620-min.en-US.js"},"squarespace-pinterest":{"css":"/assets/css/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/pinterest-f227e29498128c974d95-min.en-US.js"},"squarespace-popup-overlay":{"css":"/assets/css/popup-overlay-7b48efeab9b323dfdb524a256cf61595-min.css","js":"/assets/scripts/popup-overlay-d1f2675cc9bbb15ad5c9-min.en-US.js"},"squarespace-product-quick-view":{"css":"/assets/css/product-quick-view-bc8694b75a40e4bd969b662b80ebafb5-min.css","js":"/assets/scripts/product-quick-view-5fd240a2cbe9e3c2fc68-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"/assets/css/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/products-collection-item-v2-7978d2f84e41efab3fce-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"/assets/css/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/products-collection-list-v2-3479df15152a77889316-min.en-US.js"},"squarespace-search-page":{"css":"/assets/css/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"/assets/scripts/search-page-fd351b8542c34d9b2607-min.en-US.js"},"squarespace-search-preview":{"js":"/assets/scripts/search-preview-5316d399f660fc99f039-min.en-US.js"},"squarespace-share-buttons":{"js":"/assets/scripts/share-buttons-5354094cac018d6be388-min.en-US.js"},"squarespace-simple-liking":{"css":"/assets/css/simple-liking-310d0b18e112f708f91339b11fd55714-min.css","js":"/assets/scripts/simple-liking-1b2956fd087cd23499b6-min.en-US.js"},"squarespace-social-buttons":{"css":"/assets/css/social-buttons-26106f808f7e9c739a7f862a408ed039-min.css","js":"/assets/scripts/social-buttons-92d7f9d940d8742f5344-min.en-US.js"},"squarespace-tourdates":{"css":"/assets/css/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/tourdates-bc1eb74770f243dfe273-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"/assets/css/website-overlays-manager-421ba6ba97de46a4a25674cfd6348459-min.css","js":"/assets/scripts/website-overlays-manager-4c1694b561d9014bf761-min.en-US.js"}},"pageType":50,"website":{"id":"51e3efdbe4b053e5f0062865","identifier":"angela-alford","websiteType":1,"contentModifiedOn":1537981161477,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"Granny's Got Game","siteTagLine":"We don't stop playing because we grow old.  We grow old because we stop playing.","siteDescription":"<p>Granny's Got Game is a documentary film about a senior \nwomen's basketball team in North Carolina. These seven fiercely \ncompetitive women in their seventies battle physical limitations and \nskepticism to keep doing what they love.&nbsp; The film follows them for a \nyear as they compete for another National Senior Games championship.&nbsp; \nAfter two decades together, these women are more than a team...they are a\n family.\n</p>&nbsp; \n\n\n\n\n\n\n<p>&nbsp;</p>","location":{"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"51e410ffe4b0adebdcb88da9","shareButtonOptions":{},"logoImageUrl":"/assets/img/index.html","authenticUrl":"http://grannysgotgame.com","internalUrl":"http://angela-alford.squarespace.com","baseUrl":"http://grannysgotgame.com","primaryDomain":"grannysgotgame.com","sslSetting":1,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"1652137660","userName":"ang.alford","screenname":"Angela Gorsica Alford","addedOn":1373895129952,"profileUrl":"http://www.facebook.com/GrannysGotGame","iconUrl":"http://graph.facebook.com/1652137660/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":4,"userId":"405960599","userName":"angalford","screenname":"Angela Alford","addedOn":1373895198331,"profileUrl":"https://twitter.com/angalford","iconUrl":"http://a0.twimg.com/profile_images/1797679765/Headshot2_normal.jpg","collectionId":"51e3fa1ee4b0fa94cee9c64a","iconEnabled":true,"serviceName":"twitter"},{"serviceId":12,"userId":"5087136","userName":"angalford","screenname":"Angela Alford","addedOn":1373982875317,"profileUrl":"http://vimeo.com/angalford","iconUrl":"http://b.vimeocdn.com/ps/333/392/3333927_75.jpg","iconEnabled":true,"serviceName":"vimeo"},{"serviceId":20,"userId":"info@grannysgotgame.com","screenname":"info@grannysgotgame.com","addedOn":1373982909640,"profileUrl":"mailto:info@grannysgotgame.com","iconEnabled":true,"serviceName":"email"},{"serviceId":20,"userId":"angela.alford@gmail.com","screenname":"angela.alford@gmail.com","addedOn":1526914636580,"profileUrl":"mailto:angela.alford@gmail.com","iconEnabled":true,"serviceName":"email"}],"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"fc937c44"},"websiteSettings":{"id":"51e3efdbe4b053e5f0062866","websiteId":"51e3efdbe4b053e5f0062865","type":"Business","subjects":[{"systemSubject":"other","otherSubject":"Entertainment"}],"country":"US","state":"NC","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":false,"commentApprovalRequired":false,"commentAvatarsOn":false,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"(919) 848-1415","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":"","termsOfService":"","privacyPolicy":"","paymentSettings":{"stripeLivePublicApiKey":"pk_live_opKBr8HzYhsg2xcRg9KBSeqp","stripeTestPublicApiKey":"pk_test_CIb1NOYwSbgcXIUUmF4wryq3","stripeUserId":"acct_2DnwBi9VBdaVmksMdyd9","stripeAccountCountry":"US"},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":true,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":true,"enableMailingListOptInByDefault":true,"contactLocation":{"addressLine1":"","addressLine2":"","addressCountry":""},"businessName":"","sameAsRetailLocation":false,"businessId":"","isLive":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Shop","id":"51e3efdbe4b053e5f006286e","fullUrl":"/shop/","publicCommentCount":0,"type":13},"item":{"title":"Community Screening Kit","id":"51e54043e4b02c8ef54db6ab","fullUrl":"/shop/community-screening-package","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","bg-image":"{background-image:url(\"/static/static/51e3efdbe4b053e5f0062865/t/51e40617e4b0c8784c9f9a2c/1373898263163/Floor2.jpg\");background-position:top center;background-size:cover;background-attachment:scroll;background-repeat:no-repeat}","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"false","product-image-auto-crop":"false"},"templateId":"507c1fdf84ae362b5e7be44e","pageFeatures":[1,2,4],"googleMapsStaticApiKey":"AIzaSyBQdch5IcgcQaKNG76sbMQv1MEBEKLeQ-8","impersonatedSession":false,"isFacebookTab":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://grannysgotgame.com","name":"Granny's Got Game","description":"<p>Granny's Got Game is a documentary film about a senior \nwomen's basketball team in North Carolina. These seven fiercely \ncompetitive women in their seventies battle physical limitations and \nskepticism to keep doing what they love.&nbsp; The film follows them for a \nyear as they compete for another National Senior Games championship.&nbsp; \nAfter two decades together, these women are more than a team...they are a\n family.\n</p>&nbsp; \n\n\n\n\n\n\n<p>&nbsp;</p>","image":"/assets/img/index.html","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"angela.alford@gmail.com","telephone":"(919) 848-1415","@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"/assets/img/index.html","name":"","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><script type="application/ld+json">{"name":"Community Screening Kit","image":"http:/static1/static/51e3efdbe4b053e5f0062865/51e3efdbe4b053e5f006286e/51e54043e4b02c8ef54db6ab/1526915042221/","description":"This kit includes a  Public Performance License  that will allow you to show the film in a public space with no admission fee.   Community Screening Kit  includes:  \u2022 DVD (includes Special Features and English SDH) \u2022 Two movie posters (18\u201Dx24\u201D) \u2022 Templates for postcards to advertise the screening (P","brand":"Granny's Got Game","offers":{"price":50.00,"priceCurrency":"USD","url":"http://grannysgotgame.com/shop/community-screening-package","availability":"InStock","sku":"SQ9543685","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<link rel="stylesheet" type="text/css" href="/assets/css/commerce-a840ee3a77201db5c548717bab21806d-min.css"/>
+<script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"/assets/css/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/announcement-bar-72cb1aae1f1ba5f5ccdc-min.en-US.js"},"squarespace-audio-player":{"css":"/assets/css/audio-player-a57b8f3aa31918104f57a068648fbc63-min.css","js":"/assets/scripts/audio-player-836f63bc70a296308c45-min.en-US.js"},"squarespace-blog-collection-list":{"css":"/assets/css/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/blog-collection-list-9b4ea8a0bf07c52af335-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"/assets/css/calendar-block-renderer-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"/assets/scripts/calendar-block-renderer-c7c7a624abbf222089ae-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"/assets/css/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"/assets/scripts/chartjs-helpers-50c9530e31a3246d6d87-min.en-US.js"},"squarespace-comments":{"css":"/assets/css/comments-bfcda0f17dd987db5206c1d15e83fd19-min.css","js":"/assets/scripts/comments-c526f2afa05bd1ee95d6-min.en-US.js"},"squarespace-commerce-cart":{"js":"/assets/scripts/commerce-cart-9423cf9d499f1f9811e4-min.en-US.js"},"squarespace-dialog":{"css":"/assets/css/dialog-ee8203bf3e94f3c82f5c92798a4e7954-min.css","js":"/assets/scripts/dialog-67a035847a66064ce980-min.en-US.js"},"squarespace-events-collection":{"css":"/assets/css/events-collection-61a327b8527a1fbf9b1fe569505ed5ae-min.css","js":"/assets/scripts/events-collection-51edf1bfa86257db7058-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"/assets/scripts/form-rendering-utils-2096907a633e74a52a63-min.en-US.js"},"squarespace-forms":{"css":"/assets/css/forms-ac7917c174031c937e3df4b3a2005b34-min.css","js":"/assets/scripts/forms-753053f053ec7e387fd9-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"/assets/css/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/gallery-collection-list-a092e2961ef93a0a897b-min.en-US.js"},"squarespace-image-zoom":{"css":"/assets/css/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/image-zoom-db9dbbed55ed8afd9620-min.en-US.js"},"squarespace-pinterest":{"css":"/assets/css/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/pinterest-f227e29498128c974d95-min.en-US.js"},"squarespace-popup-overlay":{"css":"/assets/css/popup-overlay-7b48efeab9b323dfdb524a256cf61595-min.css","js":"/assets/scripts/popup-overlay-d1f2675cc9bbb15ad5c9-min.en-US.js"},"squarespace-product-quick-view":{"css":"/assets/css/product-quick-view-bc8694b75a40e4bd969b662b80ebafb5-min.css","js":"/assets/scripts/product-quick-view-5fd240a2cbe9e3c2fc68-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"/assets/css/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/products-collection-item-v2-7978d2f84e41efab3fce-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"/assets/css/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"/assets/scripts/products-collection-list-v2-3479df15152a77889316-min.en-US.js"},"squarespace-search-page":{"css":"/assets/css/search-page-ea3e98edb84abbc5e758884f69149027-min.css","js":"/assets/scripts/search-page-fd351b8542c34d9b2607-min.en-US.js"},"squarespace-search-preview":{"js":"/assets/scripts/search-preview-5316d399f660fc99f039-min.en-US.js"},"squarespace-share-buttons":{"js":"/assets/scripts/share-buttons-5354094cac018d6be388-min.en-US.js"},"squarespace-simple-liking":{"css":"/assets/css/simple-liking-310d0b18e112f708f91339b11fd55714-min.css","js":"/assets/scripts/simple-liking-1b2956fd087cd23499b6-min.en-US.js"},"squarespace-social-buttons":{"css":"/assets/css/social-buttons-26106f808f7e9c739a7f862a408ed039-min.css","js":"/assets/scripts/social-buttons-92d7f9d940d8742f5344-min.en-US.js"},"squarespace-tourdates":{"css":"/assets/css/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"/assets/scripts/tourdates-bc1eb74770f243dfe273-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"/assets/css/website-overlays-manager-421ba6ba97de46a4a25674cfd6348459-min.css","js":"/assets/scripts/website-overlays-manager-4c1694b561d9014bf761-min.en-US.js"}},"pageType":50,"website":{"id":"51e3efdbe4b053e5f0062865","identifier":"angela-alford","websiteType":1,"contentModifiedOn":1537981161477,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"Granny's Got Game","siteTagLine":"We don't stop playing because we grow old.  We grow old because we stop playing.","siteDescription":"<p>Granny's Got Game is a documentary film about a senior \nwomen's basketball team in North Carolina. These seven fiercely \ncompetitive women in their seventies battle physical limitations and \nskepticism to keep doing what they love.&nbsp; The film follows them for a \nyear as they compete for another National Senior Games championship.&nbsp; \nAfter two decades together, these women are more than a team...they are a\n family.\n</p>&nbsp; \n\n\n\n\n\n\n<p>&nbsp;</p>","location":{"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"51e410ffe4b0adebdcb88da9","shareButtonOptions":{},"logoImageUrl":"/assets/img/index.html","authenticUrl":"http://grannysgotgame.com","internalUrl":"http://angela-alford.squarespace.com","baseUrl":"http://grannysgotgame.com","primaryDomain":"grannysgotgame.com","sslSetting":1,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"1652137660","userName":"ang.alford","screenname":"Angela Gorsica Alford","addedOn":1373895129952,"profileUrl":"http://www.facebook.com/GrannysGotGame","iconUrl":"http://graph.facebook.com/1652137660/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":4,"userId":"405960599","userName":"angalford","screenname":"Angela Alford","addedOn":1373895198331,"profileUrl":"https://twitter.com/angalford","iconUrl":"http://a0.twimg.com/profile_images/1797679765/Headshot2_normal.jpg","collectionId":"51e3fa1ee4b0fa94cee9c64a","iconEnabled":true,"serviceName":"twitter"},{"serviceId":12,"userId":"5087136","userName":"angalford","screenname":"Angela Alford","addedOn":1373982875317,"profileUrl":"http://vimeo.com/angalford","iconUrl":"http://b.vimeocdn.com/ps/333/392/3333927_75.jpg","iconEnabled":true,"serviceName":"vimeo"},{"serviceId":20,"userId":"info@grannysgotgame.com","screenname":"info@grannysgotgame.com","addedOn":1373982909640,"profileUrl":"mailto:info@grannysgotgame.com","iconEnabled":true,"serviceName":"email"},{"serviceId":20,"userId":"angela.alford@gmail.com","screenname":"angela.alford@gmail.com","addedOn":1526914636580,"profileUrl":"mailto:angela.alford@gmail.com","iconEnabled":true,"serviceName":"email"}],"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"fc937c44"},"websiteSettings":{"id":"51e3efdbe4b053e5f0062866","websiteId":"51e3efdbe4b053e5f0062865","type":"Business","subjects":[{"systemSubject":"other","otherSubject":"Entertainment"}],"country":"US","state":"NC","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":false,"commentApprovalRequired":false,"commentAvatarsOn":false,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"(919) 848-1415","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":"","termsOfService":"","privacyPolicy":"","paymentSettings":{"stripeLivePublicApiKey":"pk_live_opKBr8HzYhsg2xcRg9KBSeqp","stripeTestPublicApiKey":"pk_test_CIb1NOYwSbgcXIUUmF4wryq3","stripeUserId":"acct_2DnwBi9VBdaVmksMdyd9","stripeAccountCountry":"US"},"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":true,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":true,"enableMailingListOptInByDefault":true,"contactLocation":{"addressLine1":"","addressLine2":"","addressCountry":""},"businessName":"","sameAsRetailLocation":false,"businessId":"","isLive":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Shop","id":"51e3efdbe4b053e5f006286e","fullUrl":"/shop/","publicCommentCount":0,"type":13},"item":{"title":"Community Screening Kit","id":"51e54043e4b02c8ef54db6ab","fullUrl":"/shop/community-screening-package","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","bg-image":"{background-image:url(\"/static/static/51e3efdbe4b053e5f0062865/t/51e40617e4b0c8784c9f9a2c/1373898263163/Floor2.jpg\");background-position:top center;background-size:cover;background-attachment:scroll;background-repeat:no-repeat}","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"false","product-image-auto-crop":"false"},"templateId":"507c1fdf84ae362b5e7be44e","pageFeatures":[1,2,4],"googleMapsStaticApiKey":"AIzaSyBQdch5IcgcQaKNG76sbMQv1MEBEKLeQ-8","impersonatedSession":false,"isFacebookTab":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://grannysgotgame.com","name":"Granny's Got Game","description":"<p>Granny's Got Game is a documentary film about a senior \nwomen's basketball team in North Carolina. These seven fiercely \ncompetitive women in their seventies battle physical limitations and \nskepticism to keep doing what they love.&nbsp; The film follows them for a \nyear as they compete for another National Senior Games championship.&nbsp; \nAfter two decades together, these women are more than a team...they are a\n family.\n</p>&nbsp; \n\n\n\n\n\n\n<p>&nbsp;</p>","image":"/assets/img/index.html","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"angela.alford@gmail.com","telephone":"(919) 848-1415","@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"/assets/img/index.html","name":"","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><script type="application/ld+json">{"name":"Community Screening Kit","image":"http:/static1/static/51e3efdbe4b053e5f0062865/51e3efdbe4b053e5f006286e/51e54043e4b02c8ef54db6ab/1526915042221/","description":"This kit includes a  Public Performance License  that will allow you to show the film in a public space with no admission fee.   Community Screening Kit  includes:  \u2022 DVD (includes Special Features and English SDH) \u2022 Two movie posters (18\u201Dx24\u201D) \u2022 Templates for postcards to advertise the screening (P","brand":"Granny's Got Game","offers":{"price":50.00,"priceCurrency":"USD","url":"http://grannysgotgame.com/shop/community-screening-package","availability":"InStock","sku":"SQ9543685","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&part=4"/><![endif]-->
 <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
 <!--[if !IE]> --><link rel="stylesheet" type="text/css" href="/assets/css/site.css?&filterFeatures=false"/><!-- <![endif]-->
 <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -93,182 +94,182 @@ discuss and we will work something out. 
       <header id="header">
 
         <!--MAIN NAVIGATION-->
-        
+
 <!--MOBILE-->
 
 <nav id="mobile-navigation" data-content-field="navigation-mobileNav">
   <span id="mobile-navigation-label"></span>
   <ul>
-    
-      
 
-            
+
+
+
               <li class=""><a href="/">The Film</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/team/">The Team</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/filmmakers/">The Filmmakers</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/partners/">Partners</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/press/">Press</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/host-a-screening/">Host a screening</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/dvd/">Buy DVD</a></li>
-            
 
-            
 
-          
-        
-    
+
+
+
+
+
   </ul>
 </nav>
 
-        
+
 <nav id="main-navigation" data-content-field="navigation-mainNav">
   <ul class="cf">
-    
-      
 
-            
+
+
+
               <li class=""><a href="/">The Film</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/team/">The Team</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/filmmakers/">The Filmmakers</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/partners/">Partners</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/press/">Press</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/host-a-screening/">Host a screening</a></li>
-            
 
-            
 
-          
-        
-    
-      
 
-            
+
+
+
+
+
+
+
               <li class=""><a href="/dvd/">Buy DVD</a></li>
-            
 
-            
 
-          
-        
-    
+
+
+
+
+
   </ul>
 </nav>
 
-        
-          
+
+
             <nav class="social social-links sqs-svg-icon--list" data-content-field="connected-accounts">
               <ul>
-                
+
                   <li><a href="http://www.facebook.com/GrannysGotGame" target="_blank" class="sqs-svg-icon--wrapper facebook">
                     <div>
                       <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
@@ -277,7 +278,7 @@ discuss and we will work something out. 
                       </svg>
                     </div>
                   </a></li>
-                  
+
                   <li><a href="https://twitter.com/angalford" target="_blank" class="sqs-svg-icon--wrapper twitter">
                     <div>
                       <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
@@ -286,7 +287,7 @@ discuss and we will work something out. 
                       </svg>
                     </div>
                   </a></li>
-                  
+
                   <li><a href="http://vimeo.com/angalford" target="_blank" class="sqs-svg-icon--wrapper vimeo">
                     <div>
                       <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
@@ -295,7 +296,7 @@ discuss and we will work something out. 
                       </svg>
                     </div>
                   </a></li>
-                  
+
                   <li><a href="mailto:info@grannysgotgame.com" target="_blank" class="sqs-svg-icon--wrapper email">
                     <div>
                       <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
@@ -304,7 +305,7 @@ discuss and we will work something out. 
                       </svg>
                     </div>
                   </a></li>
-                  
+
                   <li><a href="mailto:angela.alford@gmail.com" target="_blank" class="sqs-svg-icon--wrapper email">
                     <div>
                       <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
@@ -313,11 +314,11 @@ discuss and we will work something out. 
                       </svg>
                     </div>
                   </a></li>
-                  
+
               </ul>
             </nav>
-          
-        
+
+
 
       </header>
 
@@ -326,36 +327,36 @@ discuss and we will work something out. 
         <div id="title-area">
           <h1 class="site-title" data-content-field="site-title">
             <a href="/">
-              
-              
+
+
                <img class="site-title-image" src="/assets/img/index.html" alt="Granny's Got Game" />
-              
-              
+
+
             </a>
           </h1>
-        
+
           <p class="site-tagline">We don't stop playing because we grow old.  We grow old because we stop playing.</p>
-        
+
 
           <!--SITE contact info-->
           <div class="contact-info">
-            
-              
-            
-            
+
+
+
+
               <p class="phone">(919) 848-1415</p>
               <p class="email"><a href="mailto:angela.alford@gmail.com">angela.alford@gmail.com</a></p>
-            
+
           </div>
-          
-            <div class="site-desc"><p>Granny's Got Game is a documentary film about a senior 
-women's basketball team in North Carolina. These seven fiercely 
-competitive women in their seventies battle physical limitations and 
-skepticism to keep doing what they love.&nbsp; The film follows them for a 
-year as they compete for another National Senior Games championship.&nbsp; 
+
+            <div class="site-desc"><p>Granny's Got Game is a documentary film about a senior
+women's basketball team in North Carolina. These seven fiercely
+competitive women in their seventies battle physical limitations and
+skepticism to keep doing what they love.&nbsp; The film follows them for a
+year as they compete for another National Senior Games championship.&nbsp;
 After two decades together, these women are more than a team...they are a
  family.
-</p>&nbsp; 
+</p>&nbsp;
 
 
 
@@ -363,7 +364,7 @@ After two decades together, these women are more than a team...they are a
 
 
 <p>&nbsp;</p></div>
-          
+
         </div>
 
 
@@ -371,7 +372,7 @@ After two decades together, these women are more than a team...they are a
         <section id="content">
           <div class="main-content-wrapper cf" data-content-field="main-content">
             <!-- CATEGORY NAV -->
-            
+
             <div id="categoryNav">
               <input type="checkbox" name="category-nav-toggle" id="categoryNavToggle" class="category-nav-toggle hidden" />
               <label for="categoryNavToggle" class="category-nav-toggle-label" onclick></label>
@@ -379,15 +380,15 @@ After two decades together, these women are more than a team...they are a
                 <ul class="category-nav-links">
                   <li class="filter"><a>Filter</a></li>
                   <li class="active-link all"><a href="/shop/">All</a></li>
-                
+
                   <li><a href="/shop/?category=Merchandise">Merchandise</a></li>
-                
+
                   <li><a href="/shop/?category=Screening+Kits">Screening Kits</a></li>
-                
+
                 </ul>
               </nav>
             </div>
-            
+
             <div id="productWrapper" class="sqs-pinterest-products-wrapper product hentry category-screening-kits author-angela-alford post-type-store-item" data-item-id="51e54043e4b02c8ef54db6ab">
 
   <div id="productNav"><a href="/shop/"><span class="back-arrow">&larr;</span> Back to Shop</a></div>
@@ -399,12 +400,12 @@ After two decades together, these women are more than a team...they are a
     <div id="productGallery">
       <div class="intrinsic"><div class="wrapper">
       <div id="productSlideshow">
-        
-          
+
+
             <div class="slide"><img data-load="false" data-src="/assets/img/CommunityScreeningKit.jpg" data-image="/assets/img/CommunityScreeningKit.jpg" data-image-dimensions="399x254" data-image-focal-point="0.5,0.5" alt="CommunityScreeningKit.jpg"  /><div class=""></div></div>
-          
-          
-        
+
+
+
       </div>
       </div></div>
       <div id="productThumbnails">
@@ -413,10 +414,10 @@ After two decades together, these women are more than a team...they are a
     </div>
 
 
-    
-    
+
+
     <div id="productDetails" data-variants="[{&quot;attributes&quot;:{},&quot;optionValues&quot;:[],&quot;sku&quot;:&quot;SQ9543685&quot;,&quot;price&quot;:5000,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:&quot;50.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:false,&quot;qtyInStock&quot;:90,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:7.0,&quot;len&quot;:0.0}]">
-      
+
 
       <h1 class="product-title" data-content-field="title">Community Screening Kit</h1>
 
@@ -426,7 +427,7 @@ After two decades together, these women are more than a team...they are a
 
       <div class="product-excerpt" data-content-field="excerpt"><p style="white-space: pre-wrap;">This kit includes a <strong>Public Performance License </strong>that will allow you to show the film in a public space with no admission fee.</p><p style="white-space: pre-wrap;"><strong>Community Screening Kit</strong> includes:</p><p style="white-space: pre-wrap;">• DVD (includes Special Features and English SDH)<br>• Two movie posters (18”x24”)<br>• Templates for postcards to advertise the screening (PDF)<br>• Discussion Guide (PDF)<br>• Step-by-step guide to hosting a successful event (PDF)</p><p style="white-space: pre-wrap;">If you’d like to show the film in High Definition, you can add a Blu-ray disc with the full-length movie for an additional $25.&nbsp; Contact us.</p><p style="white-space: pre-wrap;">If you want a copy of the film for your classroom or library, you need our <a href="https://angela-alford.squarespace.com/shop">Educational Screening Kit</a>.</p><p style="white-space: pre-wrap;">If you’d like to charge admission or use the film screening as a fundraiser, please contact us for details.</p><p style="white-space: pre-wrap;"><strong><em>If your organization can not afford the screening kit, please contact us to discuss and we will work something out.</em></strong>&nbsp;</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;">&nbsp;</p></div>
 
-      
+
 
 <div class="product-quantity-input" data-item-id="51e54043e4b02c8ef54db6ab">
   <div class="quantity-label">Quantity:</div>
@@ -453,11 +454,11 @@ After two decades together, these women are more than a team...they are a
     </div>
   </div>
 
-  
+
   <div class="product-description">
     <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1398258350116" id="item-51e54043e4b02c8ef54db6ab"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6c243d67972ac5854bf2"><div class="sqs-block-content"><br><p>&nbsp;</p></div></div></div></div></div>
   </div>
-  
+
 
 </div>
 
@@ -560,11 +561,11 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
           </div>
         </section>
 
-        
-        
-        
 
-        
+
+
+
+
 
         <!--FOOTER WITH OPEN BLOCK FIELD-->
         <footer id="footer">
@@ -610,7 +611,7 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
 
 <div class="form-wrapper" >
 
-  
+
 
   <div class="form-inner-wrapper">
 
@@ -624,43 +625,43 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
         return false;
       })(this)" data-form-id="51e421ece4b0642ff69f718d">
 
-      
+
 
         <div class="field-list clear">
 
-        
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               <fieldset id="name-yui_3_10_1_1_1373905331986_8534" class="form-item fields name required">
               <div class="title">Name <span class="required">*</span></div>
               <legend>Name</legend>
-              
+
                 <div class="field first-name">
                   <label class="caption"><input class="field-element field-control" name="fname"
                   x-autocompletetype="given-name" type="text"
@@ -676,79 +677,79 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
                   Last Name</label>
                 </div>
               </fieldset>
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-        
 
-            
 
-            
 
-            
 
-            
 
-            
+
+
+
+
+
+
+
+
+
+
+
+
               <div id="email-yui_3_10_1_1_1373905331986_8850" class="form-item field email required">
                 <label class="title" for="email-yui_3_10_1_1_1373905331986_8850-field">Email Address <span class="required">*</span></label>
-                
+
                 <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_10_1_1_1373905331986_8850-field" />
               </div>
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-            
 
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         </div>
 
-      
 
-      
 
-      
+
+
+
       <div class="form-button-wrapper">
         <input class="button sqs-system-button sqs-editable-button" type="submit" value="Subscribe"/>
       </div>
-      
 
-      
+
+
 
       <div class="hidden form-submission-text">Thank you!</div>
 
@@ -761,7 +762,7 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
 </div></div></div></div></div>
         </footer>
 
-        
+
 
     <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
 
